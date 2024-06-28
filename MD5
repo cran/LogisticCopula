@@ -1,0 +1,15 @@
+e6a37e3a3afba9e61a3d8107befae631 *DESCRIPTION
+d839ade06be02afc2cbe3c25a16e8c64 *LICENSE
+201dddc6d87c1346748abcae1d9a304b *NAMESPACE
+193247351fd3208b25faedd05cbdde4b *R/compute_marginal_parameters.R
+e0c6b8333f91e0119c7e994bee848cad *R/copulas.R
+41a6a70ed1063434ad684710782b446c *R/data.R
+74bc0e5f06629987af02d25b7fd7fc26 *R/gradients.R
+421886f09c5c61e9b3e8164124bc5280 *R/graph.R
+dbf445527c2dde3a9d9611e4613c9163 *R/main.R
+9dcf309029cccc6994a71d4427b2749f *R/misc.R
+ceb3677716508e827861cbdfa357df29 *data/Ionosphere.rda
+2002221c599597ce8c673dedeac88625 *man/Ionosphere.Rd
+978c6e30d67b65a721f79245ee836ab0 *man/fit_copula_interactions.Rd
+0e359cb138d8c0640b3a8b6a72ce0b22 *man/fit_model.Rd
+c68ed2c4a6c800768403ca74d980b035 *man/predict.logistic_copula.Rd
